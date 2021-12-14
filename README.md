@@ -14,4 +14,3 @@ Used Keras Tuner
 3. Pandas
 4. Tensorflow 2.3.1
 5. Matplot
-
