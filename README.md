@@ -1,2 +1,5 @@
 # Air_quality_prediction
-Keras_tuner
+#### Regression by ANN
+Used Keras Tuner
+
+Introduction: Project was focused to predict Air Quality in terms of pm, 
