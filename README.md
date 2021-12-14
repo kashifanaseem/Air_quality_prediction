@@ -6,7 +6,7 @@ Used Keras Tuner
 * [Introduction](#introduction)
 * [Technologies](#technologies)
 
-**Introduction**: Project was focused to predict Air Quality in terms of pm 2.5, data has 8 features as input. A ann was developed using tensorflow to solve the regression problem with keras tuner to search best number of neurons, hyperperameter, number of layers. 
+**Introduction**: Project was focused to predict Air Quality in terms of pm 2.5, data has 8 features as input. An ann was developed using tensorflow to solve the regression problem with keras tuner to search best number of neurons, hyperperameter, number of layers. 
 
 **Technologies**: A few libraries and techs used in project
 1. Jupyter notebook
